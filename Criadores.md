@@ -2,7 +2,7 @@
 
 ### Daniel Cezário
 
-A linguagem Swift foi criada por uma equipe de engenheiros da Apple liderada por Chris Lattner. O projeto começou a ser desenvolvido de forma sigilosa em 2010 e foi apresentado oficialmente ao público somente em 2014.
+  A linguagem Swift foi criada por uma equipe de engenheiros da Apple liderada por Chris Lattner. O projeto começou a ser desenvolvido de forma sigilosa em 2010 e foi apresentado oficialmente ao público somente em 2014.
 Chris Lattner é considerado o principal criador da Swift e uma das figuras mais influentes da computação moderna. Após deixar a Apple em 2017, trabalhou em empresas como Tesla e Google Brain, 
 continuando sua atuação nas áreas de compiladores e inteligência artificial.
 
@@ -16,5 +16,5 @@ Ted Kremenek liderou o desenvolvimento do compilador Swift e das ferramentas de 
 
 Joe Groff colaborou com o sistema ABI, mecanismos de reflexão e diversos recursos da biblioteca padrão.
 
-A empresa Apple Inc. continua sendo a responsável pelo financiamento e direcionamento oficial da linguagem. 
+  A empresa Apple Inc. continua sendo a responsável pelo financiamento e direcionamento oficial da linguagem. 
 Desde que a Swift se tornou código aberto em 2015, centenas de desenvolvedores da comunidade mundial também passaram a contribuir por meio do projeto Swift Evolution e do repositório oficial da linguagem.
